@@ -30,3 +30,4 @@ https://github.com/ikatyang/emoji-cheat-sheet
 6. 😁
 7. :thinking:
 8. :triumph:
+9. 🤔
