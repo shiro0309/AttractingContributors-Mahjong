@@ -36,3 +36,5 @@ Example: BULBASAUR or hushigidane is OK.
 11. Scolipede
 12. Clefable(pikushi-)
 13. リザードン
+14. Jigglypuff
+15. 
