@@ -30,6 +30,7 @@ If you like, you can write about favorite alcohol drinks, too.
 5. Jinro
 6. Torikawa Ponzu and Sake
 7. beef jerky
-8. Kahlua and Milk
-9. Lemon-dou
-10. spicy baked or fried mochi chips in this shape, horoyoi
+8. sakiika
+9. Kahlua and Milk
+10. Lemon-dou
+11. spicy baked or fried mochi chips in this shape, horoyoi
