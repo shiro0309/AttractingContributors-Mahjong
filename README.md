@@ -34,3 +34,4 @@ If you like, you can write about favorite alcohol drinks, too.
 9. Kahlua and Milk
 10. Lemon-dou
 11. spicy baked or fried mochi chips in this shape, horoyoi
+12. jagariko
