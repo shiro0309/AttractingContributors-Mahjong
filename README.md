@@ -32,3 +32,4 @@ https://github.com/ikatyang/emoji-cheat-sheet
 8. :triumph:
 9. 🤔
 10.😘 
+11.🦌
