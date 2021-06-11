@@ -20,5 +20,30 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+
 # List of games
+
 BABA IS YOU
+
+
+* Valorant
+
+
+* Garage
+
+
+Apex
+
+
+1. Tetris
+
+
+goat simulator
+
+
+Nier Automata
+
+* Final Fantasy VII: Remake
+- Console Romano（ローマの執政官）
+
+
