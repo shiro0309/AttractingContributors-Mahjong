@@ -23,6 +23,9 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of games
 
+* Garage
+
+
 Apex
 
 
@@ -36,4 +39,5 @@ Nier Automata
 
 * Final Fantasy VII: Remake
 - Console Romano（ローマの執政官）
+
 
